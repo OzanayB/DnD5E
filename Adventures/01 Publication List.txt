@@ -9,6 +9,7 @@ A chronology of published adventures by Wizards of the Coast for D&D 5th Edition
 	Hoard of the Dragon Queen 				(Tyranny of Dragons)
 	Rise of Tiamat 						(Tyranny of Dragons)
 2015:
+	Princes of the Apocalypse			(Elemental Evil)
 	Out of the Abyss 					(Rage of Demons)
 2016:	
 	Curse of Strahd 					(Ravenloft)
@@ -32,16 +33,16 @@ A chronology of published adventures by Wizards of the Coast for D&D 5th Edition
 	Storm Lord's Wrath					(Essentials Kit)
 	Sleeping Dragon's Wake					(Essentials Kit)
 	Divine Contention					(Essentials Kit)
-	Baldur's Gate Descent Into Avernus			(Baldur's Gate: DIA)
+	Descent Into Avernus				(Baldur's Gate)
 	Forgotten Relics					(Eberron - Rising of the Last War)
 	Lost Dungeon of Rickedness				(Rick and Morty)
 2020:
 	Tide of Retribution					(Explorer's Guide to Wildemount)
 	Dangerous Designs					(Explorer's Guide to Wildemount)
-	Frozen Sick						(Explorer's Guide to Wildemount)
+	Frozen Sick							(Explorer's Guide to Wildemount)
 	Unwelcome Spirits					(Explorer's Guide to Wildemount)
 	No Silent Secret					(Mythic Odysseys of Theros)
-	Icewind Dale: Rime of the Frostmaiden			(Icewind Dale: RotF)
+	Rime of the Frostmaiden				(Icewind Dale: RoTF)
 2021:
 	Candlekeep Mysteries					(Candlekeep Mysteries)
 	The House of Lament 					(Van Richten's Guide to Ravenloft)
@@ -56,3 +57,5 @@ A chronology of published adventures by Wizards of the Coast for D&D 5th Edition
 	Dragons of Stormwreck Isle				(Starter Set)
 	Light of Xaryxis					(Spelljammer)
 	Shadow of the Dragon Queen				(Dragonlance)
+	Keys from the Golden Vault				(Keys from the Golden Vault)
+	
